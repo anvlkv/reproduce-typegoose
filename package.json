@@ -10,7 +10,7 @@
     "@types/mongoose": "^4.7.23",
     "@types/node": "^8.0.34",
     "ts-node": "^3.3.0",
-    "typescript": "^2.5.3",
+    "typescript": "~2.4.0",
     "nodemon": "^1.12.1"
   },
   "dependencies": {
