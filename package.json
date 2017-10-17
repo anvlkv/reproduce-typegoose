@@ -1,0 +1,19 @@
+{
+  "name": "reproduce-typegoose",
+  "version": "1.0.0",
+  "main": "main.ts",
+  "license": "MIT",
+  "scripts": {
+    "start": "./node_modules/.bin/ts-node ./main.ts"
+  },
+  "devDependencies": {
+    "@types/mongoose": "^4.7.23",
+    "@types/node": "^8.0.34",
+    "ts-node": "^3.3.0",
+    "typescript": "^2.5.3"
+  },
+  "dependencies": {
+    "mongoose": "^4.12.2",
+    "typegoose": "^3.5.1"
+  }
+}
